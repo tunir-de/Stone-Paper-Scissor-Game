@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.heading{
+    height: 60px;
+    background-color: rgb(2, 2, 31);
+    color: white;
+    text-align: center;
+    line-height: 60px;
+}
+.choices{
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+}
+img{
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-top: 50px;
+    border: 5px solid black
+}
+.choice:hover{
+    opacity: 60%;
+    cursor: pointer;
+}
+.scorecard{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    font-size: 30px;
+    margin-top: 80px;
+}
+#user-score,#comp-score{
+    font-size: 50px;
+}
+.status{
+    height: 50px;
+    width: 550px;
+    background-color: rgb(2, 2, 31);
+    color:white;
+    text-align: center;
+    line-height: 50px;
+    margin-top: 20px;
+    margin-left: 400px;
+    border-radius: 2rem;
+    
+}
+body{
+    background-color: aqua;
+}
