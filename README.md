@@ -25,20 +25,10 @@ CSS – for styling the layout, buttons, and animations
 
 JavaScript – for game logic, randomization, and dynamic DOM updates
 
-🚀 How to Use
-Open the index.html file in a web browser
-
-Choose between Stone, Paper, or Scissor
-
-View the result and keep playing to improve your score!
-
-📁 Project Structure
-bash
-Copy
-Edit
 /stone-paper-scissor/
 │
 ├── index.html       # Main game interface
 ├── style.css        # Styling and layout
 └── script.js        # Game logic and interactivity
+
 This project is great for beginners looking to practice DOM manipulation, event handling, and basic logic implementation in JavaScript. Feel free to clone, modify, and enhance the game with more features like sound effects, animations, or multiplayer support!
